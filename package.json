@@ -2,13 +2,13 @@
   "name": "fsdcse21backend",
   "version": "1.0.0",
   "description": "fsd",
-  "homepage": "https://github.com/KEERTI123106/FSDCSE21#readme",
+  "homepage": "https://github.com/Mahi157/FSDCSE21#readme",
   "bugs": {
-    "url": "https://github.com/KEERTI123106/FSDCSE21/issues"
+    "url": "https://github.com/Mahi157/FSDCSE21/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KEERTI123106/FSDCSE21.git"
+    "url": "git+https://github.com/Mahi157/FSD-CSE21-BACKEND.git"
   },
   "license": "ISC",
   "author": "",
