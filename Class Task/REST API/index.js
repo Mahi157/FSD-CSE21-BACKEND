@@ -2,7 +2,7 @@ import express from "express" ;
  const app = express();
   app.use(express.json());
    let users = [ 
-    {id:1, name: "keerti" , email : "A@gmail.com" }, 
+    {id:1, name: "Mahi" , email : "A@gmail.com" }, 
     {id:2, name: "deep" , email : "D@gmail.com" } 
   ]; //API => REST and GraphQL ;DRAWBACK OF REST API => because gives all data instead of particular
   

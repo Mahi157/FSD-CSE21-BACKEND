@@ -40,7 +40,7 @@ function sayHi(){
 }
 
 function good(){
-    console.log("it's keerti");
+    console.log("it's Mahi");
 }
 
 

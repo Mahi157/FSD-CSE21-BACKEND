@@ -14,7 +14,7 @@ const http = require('http');
 const server = http.createServer((req,res) => {
     res.writeHead(200, {"content-Type" : "text/plain"});
     res.write("<h1>Welcome to my server.</h1>");
-   //res.write('My name is Keerti');
+    //res.write('My name is Mahi');
    res.end();       //ending a response is mandatory
 })
 
